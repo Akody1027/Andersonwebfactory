@@ -19,3 +19,8 @@ body{
     position: relative;
     z-index: -1;
 }
+
+hr{
+background-color:white;
+
+}
